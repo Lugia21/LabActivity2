@@ -17,7 +17,7 @@
             android:id="@+id/btn1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/button1" />
+            android:text="button1" />
 
         <Button
             android:id="@+id/btn2"
